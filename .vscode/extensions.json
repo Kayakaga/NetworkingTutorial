@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "unity.unity-debug",
+        "ms-dotnettools.csharp"
+    ]
+}
