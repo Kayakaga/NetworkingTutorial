@@ -17,7 +17,7 @@ public class Player : NetworkBehaviour
         }
     }
 
-    void Update()
+    void FixedUpdate()
     {
         HandleMovement();
     }
